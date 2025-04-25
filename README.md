@@ -31,13 +31,13 @@ FUNCIONALIDADES
 
 🛠️ Tecnologias Utilizadas
 
--PHP 7.4+
--Padrão MVC com POO
--PDO para conexão segura com MySQL/MariaDB
--PHPMailer para envio de e-mails
--HTML5 / CSS3 / Bootstrap (layout e template do e-mail)
--JavaScript (validações pontuais)
--Composer (autoloading de dependências)
+- PHP 7.4+
+- Padrão MVC com POO
+- PDO para conexão segura com MySQL/MariaDB
+- PHPMailer para envio de e-mails
+- HTML5 / CSS3 / Bootstrap (layout e template do e-mail)
+- JavaScript (validações pontuais)
+- Composer (autoloading de dependências)
 
 
 🎯 Objetivo
