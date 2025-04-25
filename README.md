@@ -3,8 +3,11 @@ Este é um sistema de login moderno e seguro, desenvolvido com arquitetura MVC, 
 
 FUNCIONALIDADES
 📦 Estrutura 100% modular com padrão MVC
+
 🧹 Validação e sanitização de inputs com classe helper
+
 🔐 Login e cadastro de usuários com feedback de erro/sucesso
+
 🔑 Recuperação de senha via e-mail com:
 - Token único + código de verificação
 - Expiração automática do token
