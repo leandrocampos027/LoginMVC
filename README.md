@@ -59,7 +59,7 @@ Este projeto foi desenvolvido com o propósito de praticar e demonstrar:
 
 2) Instale as dependências com o Composer:
    
-  composer install
+  >composer install
 
 Instalar o Composer (caso ainda não tenha)
 
@@ -74,7 +74,7 @@ Instalar o Composer (caso ainda não tenha)
    
 No terminal, ainda na pasta do projeto, execute:
 
-  composer require phpmailer/phpmailer
+  >composer require phpmailer/phpmailer
 
 Isso vai:
 
