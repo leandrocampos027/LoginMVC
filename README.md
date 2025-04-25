@@ -17,11 +17,10 @@ FUNCIONALIDADES
 
 📧 Envio de e-mails com template HTML moderno:
 
-- Suporte a logo personalizada (MAIL_LOGO)
+- Suporte a logo personalizada no email
 - Layout estilizado com CSS inline
 - Fallback para nome textual caso não haja logo
-
-SUPORTE A ANEXO
+  
 
 🔒 Proteção de páginas restritas com verificação de sessão
 
