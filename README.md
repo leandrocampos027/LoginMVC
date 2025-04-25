@@ -62,9 +62,13 @@ Este projeto foi desenvolvido com o propósito de praticar e demonstrar:
   composer install
 
 Instalar o Composer (caso ainda não tenha)
+
   Se ainda não tem o Composer instalado:
+  
   Acesse: https://getcomposer.org/download
+  
   Siga as instruções de instalação para Windows, Linux ou Mac
+  
 
 3) Instalar o PHPMailer
    
